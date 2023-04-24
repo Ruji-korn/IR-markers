@@ -1,4 +1,4 @@
-﻿* Encoding: UTF-8.
+* syntax for ROC.
 
 ROC BMIcal Westcir TyG TGHDL TyGBMI TyGWC METSIR LAP VAI AIP BY MetSN (1)
   /PLOT=CURVE(REFERENCE)

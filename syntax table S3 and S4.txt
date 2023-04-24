@@ -1,4 +1,4 @@
-﻿* Encoding: UTF-8.
+* syntax table S3 and S4
 
 COMPUTE TyGBMIWC=TyGBMI + TyGWC. 
 VARIABLE LABELS  TyGBMIWC 'TyG-BMI+WC'. 

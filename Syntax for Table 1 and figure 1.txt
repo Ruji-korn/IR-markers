@@ -1,4 +1,4 @@
-﻿* Encoding: UTF-8.
+* Syntax for Table 1 and figure 1
 EXAMINE VARIABLES=Age BMIcal Westcir SBP DBP Weight Hight FBSSI TCSI TGSI LDLSI HDLSI TyG TGHDLSI
     TyGBMI TyGWC METSIR LAP VAI AIP BY HT140New
   /PLOT NONE
