@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Syntax code for SPSS"
+authors:
+- family-names: "Rattanatham"
+  given-names: "Rujikorn"
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-3287-383X"
+- family-names: "Tangpong"
+  given-names: "Jitbanjong"
+- family-names: "Chatatikun"
+  given-names: "Moragot"
+- family-names: "Sun"
+  given-names: "Dali"
+- family-names: "Kawakami"
+  given-names: "Fumitaka"
+- family-names: "Imai"
+  given-names: "Motoki"
+- family-names: "Kwanhian Klangbud"
+  given-names: "Wiyada"
+title: "Syntax code: IR-markers"
+version: 1.0.0
+doi: 10.5281/zenodo.7890884
+date-released: 2023-05-03
+url: "https://github.com/Ruji-korn/IR-markers/tree/master"
